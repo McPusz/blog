@@ -1,4 +1,4 @@
 baseURL = 'http://provemewrong.pl/'
 languageCode = 'en-us'
 title = 'Prove me wrong, I dont mind'
-theme = "hugo-theme-stack-starter"
+theme = "hugo-theme-stack"
