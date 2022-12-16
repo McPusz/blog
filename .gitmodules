@@ -1,0 +1,4 @@
+[submodule "provemewrong/public"]
+	path = provemewrong/public
+	url = https://github.com/McPusz/provemewrong.github.io.git
+	branch = main
